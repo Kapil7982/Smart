@@ -29,7 +29,7 @@ A full-stack web application with AI integration for intelligent task management
 ## Screenshots
 
 ### Dashboard
-!<img width="1917" height="946" alt="smart" src="https://github.com/user-attachments/assets/b98299bc-dd1c-44e3-842f-c85f5c9ad8de" />
+<img width="1917" height="946" alt="smart" src="https://github.com/user-attachments/assets/b98299bc-dd1c-44e3-842f-c85f5c9ad8de" />
 
 *Main dashboard showing task statistics and recent tasks with AI priority scores*
 
