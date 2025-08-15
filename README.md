@@ -170,7 +170,7 @@ A full-stack web application with AI integration for intelligent task management
    ```
    Frontend will be available at `http://localhost:3000/`
 
-## 📚 API Documentation
+## API Documentation
 
 ### Base URL
 ```
@@ -246,7 +246,7 @@ curl -X POST http://127.0.0.1:8000/api/contexts/ \
   }'
 ```
 
-## 🤖 Sample Tasks and AI Suggestions
+##  Sample Tasks and AI Suggestions
 
 ### Sample Task 1: Work Meeting
 **Input:**
@@ -308,7 +308,7 @@ curl -X POST http://127.0.0.1:8000/api/contexts/ \
 }
 ```
 
-## 🔧 Configuration Options
+## Configuration Options
 
 ### AI Service Configuration
 The application supports multiple AI providers:
